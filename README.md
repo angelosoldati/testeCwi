@@ -10,7 +10,7 @@ Para teste da Api foram criados 3 cenários de teste acertivos e 2 cenários de 
 4 - TesteNegativoValidarStatus
 5 - TesteNegativoValidarResposta
 
-OBS: Os testes realizados tem o intuito de demonstrar conhecimentos básicos em automação, sendo assim, os códigos podem ser melhorados e componentizados caso forem implementados de forem implementados de forma real, por exemplo: No cenário 3 temos uma validação da resposta completa (string - Json ) porém podemos separar partes da resposta, e validar se um elemento está em numérico, outro em string, ou até mesmo um range de IDs permitidos, tudo varia de acordo com teste desejado. 
+OBS: Os testes realizados tem o intuito de demonstrar conhecimentos básicos em automação, sendo assim, os códigos podem ser melhorados e componentizados caso forem implementados de forma real, por exemplo: No cenário 3 temos uma validação da resposta completa (string - Json ) porém podemos separar partes da resposta, e validar se um elemento está em numérico, outro em string, ou até mesmo um range de IDs permitidos, tudo varia de acordo com teste desejado. 
 
 # Exemplo de BDD cenário 1
 
